@@ -1,5 +1,4 @@
  **<h3>👋 Hi, I am Shweta Kekade:</h3>**
-- ✍ I am a final year undergraduate pursuing BE in Information Technology at GS Moze College of Engineering, Pune.
 
 - 📫 How to reach me [LinkedIn_Profile](https://www.linkedin.com/in/shweta-kekade-a5a01a205)
 
